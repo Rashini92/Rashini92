@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rashini92
 - 👀 I’m interested in Data Science
-- Data Science related workbooks will be shared here.
 
 
 <!---
