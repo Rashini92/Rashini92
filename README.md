@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Rashini92
+
+- 👋 Hi, I’m Rashini Widanaarachchi and working as a Senior Data Analyst @IFS,Sri Lanka.
 - 👀 I’m interested in Data Science
 
 
